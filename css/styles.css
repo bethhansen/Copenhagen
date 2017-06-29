@@ -1,0 +1,18 @@
+.mini {
+  border: 2px solid black;
+}
+
+.header {
+  background-color: blanchedalmond;
+  padding:10px;
+}
+
+.line2 {
+  background-color: coral;
+  padding:10px;
+}
+
+.line3 {
+  background-color: darkcyan;
+  padding: 10px;
+}
